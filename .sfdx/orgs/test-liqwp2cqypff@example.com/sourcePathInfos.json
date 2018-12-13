@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544743067920,
+            "changeTime": 1544743067920,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544743067922,
+            "changeTime": 1544743067922,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544744131376,
+            "changeTime": 1544744131376,
+            "contentHash": "ffeb34df6ce5d59bf776b0df724e7eb49a6ba606"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1544742793874,
+            "changeTime": 1544742793874,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1544743308835,
+            "changeTime": 1544743308835,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1544744131332,
+            "changeTime": 1544744131332,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1544744131338,
+            "changeTime": 1544744131338,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1544744131343,
+            "changeTime": 1544744131343,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1544744131349,
+            "changeTime": 1544744131349,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1544744131352,
+            "changeTime": 1544744131352,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4592,
+            "modifiedTime": 1544744131355,
+            "changeTime": 1544744131355,
+            "contentHash": "9c36fa889ff3cfde1566e4550dc3e7b17f11bdb4"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4928,
+            "modifiedTime": 1544744131358,
+            "changeTime": 1544744131358,
+            "contentHash": "6aa9ac511493ed0f87c7841cc83578fc7de57753"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4588,
+            "modifiedTime": 1544744131363,
+            "changeTime": 1544744131363,
+            "contentHash": "cebfd5682c400f246f6363be4d9dc1a3f470121d"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18112,
+            "modifiedTime": 1544744131375,
+            "changeTime": 1544744131375,
+            "contentHash": "194ee977b32bfea646d27c381ed477623deda5c0"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1544744131376,
+            "changeTime": 1544744131376,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544744131332,
+            "changeTime": 1544744131332,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544744131331,
+            "changeTime": 1544744131331,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544744131331,
+            "changeTime": 1544744131331,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544744131352,
+            "changeTime": 1544744131352,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544744131375,
+            "changeTime": 1544744131375,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544744131376,
+            "changeTime": 1544744131376,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
