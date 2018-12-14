@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Test Account",
+            "Location__Latitude__s": 37,
+            "Location__Longitude__s": 40
+        }
+    ]
+}

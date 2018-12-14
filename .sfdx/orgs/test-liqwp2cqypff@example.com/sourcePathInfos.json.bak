@@ -36,10 +36,10 @@
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1544746490896,
-            "changeTime": 1544746490896,
-            "contentHash": "0ff7b0482a967b1ba4ee8735675907bedfc09e6c"
+            "size": 288,
+            "modifiedTime": 1544746128415,
+            "changeTime": 1544746128415,
+            "contentHash": "89c1c035d8b9ce99374de79c793d1081f7b17b3e"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1544746335761,
-            "changeTime": 1544746335761,
-            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
+            "size": 64,
+            "modifiedTime": 1544742793874,
+            "changeTime": 1544742793874,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project",
             "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1544745880742,
-            "changeTime": 1544745880742,
-            "contentHash": "a5aa907c1244253c553002cdfad71fed3eb07d69",
+            "size": 288,
+            "modifiedTime": 1544743308835,
+            "changeTime": 1544743308835,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -216,27 +218,27 @@
     [
         "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account",
         {
+            "state": "u",
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544745476788,
             "changeTime": 1544745476788,
-            "contentHash": "48cec6aef632803ba5c0677bd6e52a3b108559a8",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "48cec6aef632803ba5c0677bd6e52a3b108559a8"
         }
     ],
     [
         "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects",
         {
+            "state": "u",
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544745476791,
             "changeTime": 1544745476791,
-            "contentHash": "8cda4e793d182d701fbb0d3a07f06f4bd6b2fc03",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8cda4e793d182d701fbb0d3a07f06f4bd6b2fc03"
         }
     ],
     [
@@ -281,209 +283,40 @@
     [
         "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544746182024,
             "changeTime": 1544746182024,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1544746182001,
             "changeTime": 1544746182017,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
         }
     ],
     [
         "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1544746128431,
             "changeTime": 1544746128431,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1544746369377,
-            "changeTime": 1544746369377,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1544746313421,
-            "changeTime": 1544746313421,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1544746350044,
-            "changeTime": 1544746350056,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1544746313419,
-            "changeTime": 1544746313419,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 113,
-            "modifiedTime": 1544746369365,
-            "changeTime": 1544746369376,
-            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1544746313422,
-            "changeTime": 1544746313422,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1544746313421,
-            "changeTime": 1544746313421,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1544746313419,
-            "changeTime": 1544746313419,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1544746313420,
-            "changeTime": 1544746313420,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1544746313421,
-            "changeTime": 1544746313421,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers/AccountTrigger.trigger-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers/AccountTrigger.trigger-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 178,
-            "modifiedTime": 1544746490897,
-            "changeTime": 1544746490897,
-            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers/AccountTrigger.trigger",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers/AccountTrigger.trigger",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 107,
-            "modifiedTime": 1544746490898,
-            "changeTime": 1544746490898,
-            "contentHash": "78cd3d9567913a8a3da44eb82dacf4a6dcb55cb4"
-        }
-    ],
-    [
-        "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mostafa/Documents/sfdx_geolocation_project/force-app/main/default/triggers",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1544746490898,
-            "changeTime": 1544746490898,
-            "contentHash": "acc54750b3a2aad756c0864b40e1712786e9e0c1"
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
         }
     ]
 ]
